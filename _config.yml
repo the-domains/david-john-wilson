@@ -1,0 +1,28 @@
+name: David John Wilson
+favicon: null
+layout_spectrum: 0.10226844507269561
+typography_spectrum: 0.843295622849837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5871431806590408
+  lightness: 0.4192915176972747
+  saturation: 0.7980666141957045
+  rhythmicContrast: 0.23064757604151964
+purpose: []
